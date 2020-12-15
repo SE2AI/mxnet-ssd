@@ -1,7 +1,11 @@
 # SSD: Single Shot MultiBox Object Detector
 
-SSD is an unified framework for object detection with a single network.
+## ADD-ON
+* resnet pretrained model:
+http://data.mxnet.io/models/imagenet/resnet/101-layers/resnet-101-0000.params
+http://data.mxnet.io/models/imagenet/resnet/50-layers/resnet-50-0000.param
 
+SSD is an unified framework for object detection with a single network.
 You can use the code to train/evaluate/test for object detection task.
 
 ### Disclaimer
